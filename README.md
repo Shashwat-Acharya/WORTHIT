@@ -1,7 +1,7 @@
 # WORTHIT
 This is going to be a auction Website so anyone intrested in this project can happly contribute 
 
-# ADDONS
+ADDONS:
 Thinking of including the options for Buying and Selling NFTs
 
 MOST IMPORTANT OF ALL:
