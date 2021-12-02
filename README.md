@@ -1,5 +1,8 @@
 # WORTHIT
-This is going to be a auction Website so anyone intrested in this project can happly contribute
+This is going to be a auction Website so anyone intrested in this project can happly contribute 
+
+# ADDONS
+Thinking of including the options for Buying and Selling NFTs
 
 MOST IMPORTANT OF ALL:
 THE BIDDER WHO HAS LOST THE BET BY BEING ON THE SECOND PLACE ALSO HAVE TO PAY THEIR BID (That's site earning. So, no Aruging about that). But if the owner cancels the auction then the second place bidder will also get 80% of their money back within 7 working days
